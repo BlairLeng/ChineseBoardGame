@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "11357298-b868-481c-9ed8-0972d16e030e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "RedHorse": {
+      "ver": "1.0.3",
+      "uuid": "d5a5901f-5e5c-4dc9-8a22-f11a385e6627",
+      "rawTextureUuid": "11357298-b868-481c-9ed8-0972d16e030e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 286,
+      "height": 286,
+      "rawWidth": 286,
+      "rawHeight": 286,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

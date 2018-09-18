@@ -1,0 +1,156 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Unknown_minion ",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_tag": -1,
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__id__": 4
+    },
+    "_id": "",
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 225,
+      "height": 225
+    },
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 0.4,
+    "_scaleY": 0.4,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_opacityModifyRGB": false,
+    "groupIndex": 0
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_spriteFrame": {
+      "__uuid__": "227e6182-943e-47e6-9866-074edf49a2bd"
+    },
+    "_type": 0,
+    "_sizeMode": 0,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_atlas": null
+  },
+  {
+    "__type__": "bf4da0kuMBCupEWoVy4vStq",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "Name": null,
+    "_NewUnkownPiece": null,
+    "BlackAdvisor": {
+      "__uuid__": "41c53d8b-cf3b-4a82-90ae-54dc4fa8367d"
+    },
+    "BlackCannon": {
+      "__uuid__": "d3b92755-e959-48c4-99d5-330db0f791e5"
+    },
+    "BlackElephant": {
+      "__uuid__": "2b866bd9-f006-4c5b-85b1-2557ec8dfe22"
+    },
+    "BlackGeneral": {
+      "__uuid__": "b75628e5-53de-48cc-95e5-efe0dac80aa2"
+    },
+    "BlackHorse": {
+      "__uuid__": "78a12bc0-3e32-440a-9c5e-55604e5874c1"
+    },
+    "BlackPawn": {
+      "__uuid__": "128ab7a1-0fa6-4428-85e5-a5700f806607"
+    },
+    "BlackRook": {
+      "__uuid__": "c781d091-6ffb-4ad9-837a-08a5019d11c5"
+    },
+    "RedAdvisor": {
+      "__uuid__": "f85ae57f-80f4-4c09-b504-b3b031146ecd"
+    },
+    "RedBishop": {
+      "__uuid__": "c200c9b9-9c37-496d-a4ae-dd84d50ab7bf"
+    },
+    "RedCannon": {
+      "__uuid__": "f43bc144-717a-4f6e-8bb2-cac5ed9b0ed7"
+    },
+    "RedChariot": {
+      "__uuid__": "367a8354-fa1c-45e7-9051-306f97db0b21"
+    },
+    "RedHorse": {
+      "__uuid__": "35aebbe0-ea51-4192-8b64-d6709cb432b7"
+    },
+    "RedKing": {
+      "__uuid__": "5a5867d7-947d-4154-847d-d586c0b24660"
+    },
+    "RedSoldier": {
+      "__uuid__": "7ee3888b-7bd4-41de-a561-d48bc9c9caf4"
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "a231afaf-3e61-452f-a3d1-579fbbec77a3"
+    },
+    "fileId": "bcnyXiqbRFwZ5dk64VvH4E",
+    "sync": false
+  }
+]
